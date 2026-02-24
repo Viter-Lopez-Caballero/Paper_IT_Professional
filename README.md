@@ -1,4 +1,4 @@
-# 🌽 Dataset de Imágenes Reales de Cultivos de Maíz para Detección de Plagas
+# Dataset de Imágenes Reales de Cultivos de Maíz para Detección de Plagas
 
 ![Dataset](https://img.shields.io/badge/Dataset-Real-green)
 ![Images](https://img.shields.io/badge/Images-2500-blue)
@@ -8,20 +8,20 @@
 
 ---
 
-## 📌 Descripción general
+## Descripción general
 
 Este repositorio contiene un **dataset de 2,500 imágenes reales de cultivos de maíz**, diseñado para el **entrenamiento, validación y evaluación de modelos de Machine Learning y Deep Learning enfocados en la detección automática de plagas en entornos agrícolas reales**.
 
 El conjunto de datos está **balanceado**, e incluye:
 
-- 🌱 **1,250 imágenes de cultivos de maíz sanos**
-- 🐛 **1,250 imágenes de cultivos de maíz afectados por plagas**
+-  **1,250 imágenes de cultivos de maíz sanos**
+-  **1,250 imágenes de cultivos de maíz afectados por plagas**
 
 Este balance permite reducir sesgos durante el entrenamiento y mejorar el desempeño de los modelos predictivos.
 
 ---
 
-## 📍 Área geográfica de adquisición
+##  Área geográfica de adquisición
 
 Las imágenes fueron capturadas directamente en **parcelas agrícolas reales** ubicadas en el estado de Morelos, México, específicamente en los municipios de:
 
@@ -33,12 +33,12 @@ Estas regiones representan zonas agrícolas activas y relevantes para la producc
 
 ---
 
-## 🚁 Método de adquisición
+##  Método de adquisición
 
 Las imágenes fueron adquiridas utilizando múltiples plataformas de captura, simulando condiciones reales de monitoreo agrícola:
 
-- 📱 Dispositivos móviles (captura a nivel de cultivo)
-- 🚁 Vehículo Aéreo No Tripulado (UAV / dron) (captura aérea)
+- Dispositivos móviles (captura a nivel de cultivo)
+- Vehículo Aéreo No Tripulado (UAV / dron) (captura aérea)
 
 Esto permitió obtener imágenes con:
 
@@ -48,7 +48,7 @@ Esto permitió obtener imágenes con:
 
 ---
 
-## 🏷️ Etiquetado de datos
+## Etiquetado de datos
 
 Todas las imágenes fueron **etiquetadas manualmente**, clasificándolas en dos categorías:
 
@@ -61,7 +61,7 @@ El proceso de etiquetado fue realizado mediante inspección visual directa, gara
 
 ---
 
-## 🌤️ Condiciones reales de campo
+## Condiciones reales de campo
 
 El dataset incluye variabilidad natural presente en entornos agrícolas reales, como:
 
@@ -75,7 +75,7 @@ Estas características hacen que el dataset sea adecuado para desarrollar **mode
 
 ---
 
-## 📊 Características del dataset
+## Características del dataset
 
 | Característica | Valor |
 |---|---|
@@ -89,7 +89,7 @@ Estas características hacen que el dataset sea adecuado para desarrollar **mode
 
 ---
 
-## 🤖 Aplicaciones
+## Aplicaciones
 
 Este dataset puede utilizarse para:
 
@@ -104,7 +104,7 @@ Este dataset puede utilizarse para:
 
 ---
 
-## 🧠 Frameworks compatibles
+## Frameworks compatibles
 
 Este dataset es compatible con:
 
@@ -116,7 +116,7 @@ Este dataset es compatible con:
 
 ---
 
-## 📁 Estructura sugerida del dataset
+## Estructura sugerida del dataset
 
 ```
 dataset/
@@ -136,13 +136,13 @@ dataset/
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Este dataset fue creado para apoyar el desarrollo de soluciones basadas en Inteligencia Artificial para la **detección temprana de plagas en cultivos de maíz**, contribuyendo a la agricultura de precisión y la seguridad alimentaria.
 
 ---
 
-## 📖 Uso académico
+## Uso académico
 
 Este dataset puede ser utilizado para:
 
@@ -153,7 +153,7 @@ Este dataset puede ser utilizado para:
 
 ---
 
-## 📩 Contacto
+## Contacto
 
 Si utiliza este dataset en su investigación, por favor considere citar este repositorio.
 
@@ -165,19 +165,19 @@ México
 
 ---
 
-## ⭐ Keywords
+## Keywords
 
 maize, corn, pest detection, agriculture, deep learning, computer vision, UAV, drone, dataset, precision agriculture, artificial intelligence
 
 ---
 
-## 📜 Licencia
+## Licencia
 
 Este dataset es de uso académico.
 
 ---
 
-## 🙌 Agradecimientos
+## Agradecimientos
 
 A los productores agrícolas del estado de Morelos por permitir la adquisición de las imágenes.
 
