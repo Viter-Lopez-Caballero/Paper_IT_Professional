@@ -157,7 +157,7 @@ Este dataset puede ser utilizado para:
 
 Si utiliza este dataset en su investigación, por favor considere citar este repositorio.
 
-Autor: **Vitervo López Caballero**
+Autor: **Vitervo López Caballero**, **Andrea Sánchez Ruíz**, **Antonio Juan Capistran Abundez**
 
 Institución: Centro Nacional de Investigación y Desarrollo Tecnológico (CENIDET)
 
