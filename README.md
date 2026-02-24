@@ -1,11 +1,5 @@
 # Dataset de Imágenes Reales de Cultivos de Maíz para Detección de Plagas
 
-![Dataset](https://img.shields.io/badge/Dataset-Real-green)
-![Images](https://img.shields.io/badge/Images-2500-blue)
-![Classes](https://img.shields.io/badge/Classes-2-orange)
-![Type](https://img.shields.io/badge/Type-Computer%20Vision-red)
-![Location](https://img.shields.io/badge/Location-Morelos%2C%20México-lightgrey)
-
 ---
 
 ## Descripción general
